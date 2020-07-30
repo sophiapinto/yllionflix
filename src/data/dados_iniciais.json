@@ -104,16 +104,20 @@
       "cor": "orange",
       "videos": [
         {
+          "titulo": "Orgulho e Preconceito",
+          "url": "https://www.youtube.com/watch?v=fJA27Jujzq4"
+        },
+        {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Orgulho e Preconceito - Final Alternativo",
+          "url": "https://www.youtube.com/watch?v=esPY2rMsZPw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Becoming Jane",
+          "url": "https://www.youtube.com/watch?v=qmd-ej9Hx20"
         },
         {
           "titulo": "Feitiço do Tempo",
