@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Inteligência artificial",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": " ",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Robótica",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Conhecendo aplicações com arduino",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -159,7 +159,7 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Por onde começar a estudar programação",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
