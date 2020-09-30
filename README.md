@@ -1,8 +1,9 @@
-# Bem-vindos a minha Yllionflix!
+# Bem-vindos a Yllionflix!
 
 A minha flix adapta!
 
-Vou colocar alguns links bem legais de tecnologia, ciências, trailers de filmes bem legais. E talvez futuramente adaptar essa estrutura para receber links de outros locais diferentes do Youtube!
+Vou colocar alguns links bem legais de tecnologia, ciências, trailers de filmes e outras coisas bem legais. E talvez futuramente adaptar essa estrutura para receber links de outros locais diferentes do Youtube!
+
 
 __________________________xxxx___________________________
 
