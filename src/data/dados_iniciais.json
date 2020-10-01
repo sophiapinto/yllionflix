@@ -1,46 +1,34 @@
 {
   "categorias": [
     {
-      "titulo": "Inteligência artificial",
+      "titulo": "YILLIONPONTOCOM",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": " ",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": " Conheça o Yllion.com",
+        "url": "https://www.instagram.com/yllionpontocom/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Acredite em seus sonhos!",
+          "url": "https://www.instagram.com/p/CEuvCNyAZAV/?utm_source=ig_web_copy_link"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Dicas de Inglês",
+          "url": "https://www.instagram.com/p/CE7koCXgNpY/?utm_source=ig_web_copy_link"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Rover",
+          "url": "https://www.instagram.com/p/CFQAfRKA0p0/?utm_source=ig_web_copy_link"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Software",
+          "url": "https://www.instagram.com/p/CFAB2F3g6ut/?utm_source=ig_web_copy_link"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Nada se apaga",
+          "url": "https://www.instagram.com/p/CFfD9KyA9xE/?utm_source=ig_web_copy_link"
+        }       
       ]
     },
     {
@@ -129,7 +117,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": " ",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
